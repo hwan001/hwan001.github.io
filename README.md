@@ -1,9 +1,8 @@
-# Test
+# Hwan001
 
 ## Contents
-
-- [Usage](#usage)
-- [Options](#options)
+- [Name](#Name)
+- [Company](#Company)
   - [Sidebar menu](#sidebar-menu)
   - [Sticky sidebar content](#sticky-sidebar-content)
   - [Themes](#themes)
